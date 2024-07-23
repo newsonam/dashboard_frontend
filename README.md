@@ -1,5 +1,6 @@
 # SCREENSHOTS OF DASHBOARD USER INTERFACE/FRONTEND and video clip displaying working of the project
 
+video clip of project:- https://drive.google.com/file/d/1YN0dqDTMLMtdOSVjdBdAcr8BmVYNjA2p/view?usp=sharing
 
 ![Screenshot 2024-07-23 231222](https://github.com/user-attachments/assets/90af31ee-9859-4461-9566-df45e9281232)
 
